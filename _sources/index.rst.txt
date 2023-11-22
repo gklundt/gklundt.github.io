@@ -1,0 +1,28 @@
+Argus Console
+=============
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+    :glob:
+
+    apim/*
+
+.. admonition:: Project README
+
+    .. include::   ../../README.md
+        :parser: myst_parser.sphinx_
+
+.. admonition:: A Sample UML Diagram Using PlantUML
+
+    .. uml::
+
+        Alice -> Bob: Hi!
+        Alice <- Bob: How are you?
+
+..  Indices and tables
+    ==================
+
+    * :ref:`genindex`
+    * :ref:`modindex`
+    * :ref:`search`

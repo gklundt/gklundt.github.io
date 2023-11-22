@@ -1,0 +1,12 @@
+Azure API Management Setup
+==========================
+
+
+.. rubric:: References
+
+`howto-provision-self-hosted-gateway <https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-provision-self-hosted-gateway>`_
+`howto-add-products?tabs=azure-portal <https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-add-products?tabs=azure-portal>`_
+`self-hosted-gateway-overview <https://learn.microsoft.com/en-us/azure/api-management/self-hosted-gateway-overview>`_
+`how-to-deploy-self-hosted-gateway-docker <https://learn.microsoft.com/en-us/azure/api-management/how-to-deploy-self-hosted-gateway-docker>`_
+`get-started-create-service-instance <https://learn.microsoft.com/en-us/azure/api-management/get-started-create-service-instance>`_
+`APIM Workspaces Overview <https://learn.microsoft.com/en-us/azure/api-management/workspaces-overview>`_
